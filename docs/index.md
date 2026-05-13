@@ -3,16 +3,16 @@
 layout: home
 
 hero:
-  name: "Festering Paradise Project"
-  text: "Festering Paradise Documents"
-  tagline: My great project tagline
+  name: "溃烂幻界企划"
+  text: "设定和文档站点"
+  tagline: 急招美工、前端
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: 进入文档
+      link: /project/navigator
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: 了解企划
+      link: /project/introduce
 
 features:
   - title: Feature A
