@@ -37,6 +37,10 @@ export default defineConfig({
       {
         text: '设定集',
         items: [
+          { text: '设定集说明', link: '/setting/introduce' },
+          { text: '生物设计整理', link: '/setting/creatures' },
+          { text: '法术设计整理', link: '/setting/spells' },
+          { text: '武器设计整理', link: '/setting/weapons' }
         ]
       }
     ],

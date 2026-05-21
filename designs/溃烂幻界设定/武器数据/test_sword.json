@@ -1,0 +1,9 @@
+{
+    "id":"fp:test_sword",
+    "reforge":"default",
+    "template":"sword",
+    "rarity":0,
+    "weapon_builder":{
+        "physical_damage":10.0
+    }
+}
