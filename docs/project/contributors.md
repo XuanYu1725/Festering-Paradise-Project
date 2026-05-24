@@ -8,7 +8,7 @@
 
 [![FanQieQWQ](../resources/profile/FanQieQWQ.png)](https://space.bilibili.com/480789112) 番茄QWQ：提供原创设定，《世界树迷宫》玩法设计
 
-[![Boanci](../resources/profile/Boanci.png)](https://space.bilibili.com/https://space.bilibili.com/543764721) 咕咕咕的屑枕头：提供美术支持
+[![Boanci](../resources/profile/Boanci.png)](https://space.bilibili.com/543764721) 咕咕咕的屑枕头：提供美术支持
 
 [![Zeeli](../resources/profile/Zeeli.png)](https://space.bilibili.com/1236612296) 不是泽狸：提供美术支持
 
@@ -40,4 +40,4 @@ FlyBridOuO：提供设定润色意见
 
 ## 吉祥物
 
-[![Kleio](../resources/profile/Kleio.png)](../../secret) Kleio Aotalia
+![Kleio](../resources/profile/Kleio.png) Kleio Aotalia
