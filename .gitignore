@@ -3,3 +3,7 @@ docs/.vitepress/cache
 node_modules
 package-lock.json
 package.json
+
+# 本地 AI 冒险（写作台、会话、正文稿），不进远程
+**/AI冒险/
+start-desk.bat
